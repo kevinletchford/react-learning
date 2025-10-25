@@ -1,4 +1,7 @@
 {
+  "compilerOptions": {
+    "lib": ["ES2024", "DOM"]
+  },
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
